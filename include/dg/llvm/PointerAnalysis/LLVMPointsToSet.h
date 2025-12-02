@@ -5,7 +5,7 @@
 #include <utility>
 
 #include <llvm/IR/Value.h>
-#include <llvm-15/llvm/Support/raw_ostream.h>
+#include <llvm/Support/raw_ostream.h>
 
 #include "dg/PointerAnalysis/PointsToSet.h"
 #include <dg/PointerAnalysis/PSNode.h>
